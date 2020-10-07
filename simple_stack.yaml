@@ -23,6 +23,8 @@ Description: >-
   TODO:
     1. add configuration for dynamodb instance
     2. add configuration for cognito
+    3. add iam role for dynamo, cognito
+    4. add iam for users
 
 ########################################################################
 
