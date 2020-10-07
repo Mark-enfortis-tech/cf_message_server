@@ -20,6 +20,10 @@ Description: >-
   express or implied. See the License for the specific language governing 
   permissions and limitations under the License.
 
+  TODO:
+    1. add configuration for dynamodb instance
+    2. add configuration for cognito
+
 ########################################################################
 
 Parameters:
